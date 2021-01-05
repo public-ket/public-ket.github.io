@@ -24,8 +24,8 @@
       <guid>https://public-ket.github.io/papers/</guid>
       <description>“Parallelism strategies for the tuneable golden claw-finding problem.
 Azarderakhsh, R., Biasse, J.F., El Khatib, R., Langenberg, B., Pring, B.
-International Journal of Computer Mathematics (2020)
-We examine the impact of the &amp;quot;Tiny Claw&amp;quot; algorithm proposed in BP2020 on the cost of attacking the SIKE public-key cryptosystem, under realistic assumptions concerning hardware layout, classical memory-access costs and the cost of the neccessary quantum circuit that computes arbitrary degree isogeny paths. We observe that whilst the original Tiny Claw algorithm does not reach its full potential under these assumptions, our adaptations and new options for parallelism mean that even in a pessimistic cost model for classical memory-access costs, the Tiny Claw algorithm may offer competitive or superior performance compared to other quantum algorithms, under the assumption that qubits require computational effort to maintain.</description>
+International Journal of Computer Mathematics (accepted subject to revisions 2020)
+We examine the impact of the &amp;quot;Tiny Claw&amp;quot; algorithm proposed in BP2020 on the cost of attacking the SIKE public-key cryptosystem, under realistic assumptions concerning hardware layout, classical memory-access costs and the cost of the neccessary quantum circuit that computes arbitrary degree isogeny paths.</description>
     </item>
     
     <item>
