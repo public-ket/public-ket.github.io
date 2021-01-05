@@ -8,6 +8,15 @@
     <language>en-uk</language>
     <lastBuildDate>Mon, 04 Jan 2021 00:08:21 -0500</lastBuildDate><atom:link href="https://public-ket.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About this website</title>
+      <link>https://public-ket.github.io/about/</link>
+      <pubDate>Mon, 04 Jan 2021 11:54:14 -0500</pubDate>
+      
+      <guid>https://public-ket.github.io/about/</guid>
+      <description>© All rights reserved. Powered by Hugo and Minimal.</description>
+    </item>
+    
+    <item>
       <title>Papers</title>
       <link>https://public-ket.github.io/papers/</link>
       <pubDate>Mon, 04 Jan 2021 03:10:41 -0500</pubDate>
