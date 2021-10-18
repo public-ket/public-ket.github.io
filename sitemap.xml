@@ -1,99 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://public-ket.github.io/about/</loc>
     <lastmod>2021-01-04T11:54:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/papers/</loc>
     <lastmod>2021-01-04T03:10:41-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/research/</loc>
     <lastmod>2021-01-04T03:10:41-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/</loc>
     <lastmod>2021-01-04T00:08:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/template/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/tags/static-site-generator/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://public-ket.github.io/categories/</loc>
   </url>
-  
 </urlset>
